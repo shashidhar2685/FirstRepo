@@ -1,0 +1,16 @@
+Persistance framework a miidle layer 
+
+Entity Framework
+
+Entity Framework is persistance layer interface bewteen application and database
+
+1> Database First Approch  (We design our tables, EF generates the domian classes)
+2> Code First Approch (We create our domian classes, EF generates database tables)
+
+Real Time used above
+
+3> Model First Approch  (We create a UML diagram, EF generates domian classes and database)
+
+DBContext ----database
+
+DBSet(Add/Modify/Delete) 
